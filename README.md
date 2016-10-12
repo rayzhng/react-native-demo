@@ -2,5 +2,7 @@
 
 ### Installation
 
-```npm install
-   react-native run-ios
+```
+npm install
+react-native run-ios
+```
