@@ -4,5 +4,6 @@
 
 ```
 npm install
-react-native run-ios
+npm install react-native-tab-navigator
+react-native run-ios/react-native run-android
 ```
